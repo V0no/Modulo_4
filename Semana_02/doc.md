@@ -135,7 +135,7 @@ Observações:
 
 - Em regime permanente, Y2 se aproxima da tensão da fonte e Y1 tende a 0 V.
 
-![Gráfico RC](/download.png)
+![Gráfico RC](./download.png)
 
 
 ## 7. Conclusão

@@ -1,4 +1,4 @@
-# Projeto: Semáforo para Controle de Trânsito (Butantã)
+# Projeto: Semáforo 
 
 Resumo: Montagem e programação de um semáforo com LEDs para controle de fluxo de veículos e segurança de pedestres. Ciclo implementado: vermelho → verde → amarelo com tempos especificados utilizando millis() para controle não bloqueante.
 
@@ -143,8 +143,8 @@ Os colegas avaliadores devem analisar:
 
 | Nome do Avaliador | Comentários | Nota (0–10) |
 |-------------------|------------|-------------|
-| Nome| Comentários|NOTA  |
-| Nome| Comentários|NOTA  |
+| Felipe Viana | O projeto apresenta boa organização, explicação clara da montagem e uso correto dos componentes. A escolha por millis() ao invés de delay() demonstra domínio de lógica não bloqueante, permitindo expansões futuras. A inclusão de ponteiros agrega complexidade extra, embora não seja estritamente necessária para o contexto, o que mostra intenção de explorar recursos mais avançados da linguagem. Porém durante a montagem não foi utilizado os jumpers com as cores corretas. |9.5  |
+| Enzo Matsui | A documentação está bem estruturada e facilita a compreensão. Os tempos de cada estágio foram claramente definidos e implementados. O uso da máquina de estados torna o código limpo e modular. Embora o projeto esteja bem completo, durante a montagem poderia ter utilizado melhor as boas práticas, como por exemplo o uso das cores corretas nos jumpers |9  |
 
 ---
 
